@@ -1,0 +1,43 @@
+body {
+    background-color: #171717;
+}
+
+#contenedor {
+    color: #EDEDED;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    padding: 15px;
+    border-radius: 20%;
+    border-style: none;
+    margin-left: 10px;
+    font-size: 100%;
+}
+
+#opcion1 {
+    background-color: rgb(57, 225, 255);
+    color: #EDEDED;
+}
+
+#opcion1:hover {
+    background-color: rgb(131, 236, 255);
+    color: #EDEDED;
+}
+
+#opcion2 {
+    background-color: #DA0037;
+    color: #EDEDED;
+}
+
+#opcion2:hover {
+    background-color: #ff7a9b;
+    color: #EDEDED;
+}
+
+p {
+    font-size: 30px;
+}
+
